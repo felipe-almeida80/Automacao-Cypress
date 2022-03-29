@@ -1,0 +1,15 @@
+{
+  "name": "trackandfield",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do site da Track&Field",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Felipe Almeida",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  },
+  "dependencies": {}
+}
